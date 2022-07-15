@@ -1,8 +1,12 @@
 # JavaScript Practice 01
 
+[Link to YouTube video](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
 This repository is a place for me to dump all of my basic JavaScript practices.
 
 This README will contain review questions and definitions that I find useful for review.
+
+---
 
 ### What is JavaScript?
 
@@ -27,6 +31,8 @@ This README will contain review questions and definitions that I find useful for
 - ECMAScript is a Specification.
 - JavaScript is a Programming Language that conforms to this Specification.
 - ECMA Organization is responsible for defining standards, they have annual releases of standards.
+
+---
 
 ## HTML Formatting
 
@@ -69,6 +75,8 @@ Comments should be used for whys and hows, not just stating what the code is doi
 
 Comments in JavaScript begin with //.
 
+---
+
 ### Variables
 
 The value of variable can be changed.
@@ -81,3 +89,12 @@ The value of variable can be changed.
 ### Constants
 
 The value of constants stay the same.
+
+### Primitives/Value Types
+
+- String
+- Number
+- Boolean
+- undefined
+- null
+- Symbol (ES6)
