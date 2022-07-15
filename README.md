@@ -67,4 +67,17 @@ We don't want to write all of our code inside of the script tags. We want to sep
 
 Comments should be used for whys and hows, not just stating what the code is doing, since that can be understood from the code itself.
 
-Comments in JavaScript begin with '//'.
+Comments in JavaScript begin with //.
+
+### Variables
+
+The value of variable can be changed.
+
+- In JavaScript variables are used to store data temporarily.
+- Like a box of stuff, the items we put in it are the data and the label we put on the box is the name of our variable.
+
+- Before ES6 we used a VAR keyword to declare a variable, but there are issues with **var**. Going forward from ES6 the best practice is to use the **let** keyword to declare a variable.
+
+### Constants
+
+The value of constants stay the same.
